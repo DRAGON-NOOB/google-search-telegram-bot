@@ -17,3 +17,7 @@
     "TELEGRAM_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
       "value": ""
+  },
+    "GOOGLE_API_KEY: {
+      "description": "Get this value from README",
+      "value": ""
