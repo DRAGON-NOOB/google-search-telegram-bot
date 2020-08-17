@@ -15,9 +15,32 @@
  
   },
     "TELEGRAM_BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "Your bot token as a string.",
       "value": ""
   },
-    "GOOGLE_API_KEY: {
+    "GOOGLE_API_KEY": {
       "description": "Get this value from README",
+      "value": ""
+},
+    "SEARCH_ENGINE_ID": {
+      "description": "Get this value from Readme",
+      "value": ""
+},
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
+},
+    "ALLOW_ONLY_USERS": {
+      "description": "Get this value from readme",
+
+      "value":"False"
+
+
+},
+    "URL": {
+      "description": "Get this value from README",
+      "value": ""
+},
+    "WEBHOOK_SECERT: {
+      "description": "Get this value from https://my.telegram.org",
       "value": ""
