@@ -57,3 +57,4 @@ must be present:
 ## Dependency
 - Python 3 (developed and tested on 3.5)
 - Telepot (https://github.com/nickoala/telepot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MY-Tgworld/google-search-telegram-bot)
