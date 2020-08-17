@@ -13,3 +13,7 @@
   "website": "https://githib.com/MY-TGWORLD",
   "repository": https://github.com/MY-Tgworld/google-search-telegram-bot",
  
+  },
+    "TELEGRAM_BOT_TOKEN": {
+      "description": "Your bot token, as a string.",
+      "value": ""
