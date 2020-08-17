@@ -1,10 +1,13 @@
-{
-	"telegram_bot_token": "",
-	"google_api_key": "",
-	"search_engine_id": "",
-	"allow_only_users": [],
-	"paw_app": {
-		"url": "https://YOUR_PYTHONANYWHERE_USERNAME.pythonanywhere.com",
-		"webhook_secret": ""
-	}
-}
+ {
+  "name": "TG GOOGLE BOT",
+  "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
+  "keywords": [
+    "telegram",
+    "best",
+    "open",
+    "source",
+    "GOOGLE"
+  ],
+  "success_url":https://github.com/nkming2/google-search-telegram-bot,
+  "website":https://github.com/MY-Tgworld/google-search-telegram-bot,
+  
